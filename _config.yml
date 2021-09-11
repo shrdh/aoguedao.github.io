@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alonso Ogueda's Personal Site"
+title                    : "Alonso Ogueda"
 title_separator          : "-"
 name                     : &name "Alonso Ogueda"
 description              : &description "A kind of personal website"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alonso Ogueda"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "A nerd mathematician"
   location         : "Fairfax, VA"
   employer         :
@@ -99,14 +99,14 @@ author:
   github           : "aoguedao"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/lml.alonso.lml"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/aoguedaoliva"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/123456/alonso-ogueda-oliva"
   steam            :
   tumblr           :
   # twitter          : "replacethistwitterhandle"
