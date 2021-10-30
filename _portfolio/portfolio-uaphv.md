@@ -4,7 +4,6 @@ excerpt: "Tsunami Evacuation, Machine Learning and Model Interpretability<br/><i
 collection: portfolio
 ---
 
-# Modelling geographical and built environment’s attributes as predictors of human vulnerability during tsunami evacuations: a multi-case study and paths to improvement
 
 I've been working with [Dr. Jorge León](https://www.researchgate.net/profile/Jorge-Leon-12) since 2019 on projects related to earthquakes, tsunamis and wildfires since a couple of years, motivated by his Architecture and Urbanism background. However, my job has been to implement mathematical and statistical tools for predictions and analysis.
 
@@ -288,7 +287,7 @@ plt.title('R2 Score for train and test sets')
 
 
     
-![png](output_16_1.png)
+![png]("./output_16_1.png")
     
 
 
