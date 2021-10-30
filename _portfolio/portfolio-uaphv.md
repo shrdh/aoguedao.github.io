@@ -343,10 +343,9 @@ shap_values = explainer.shap_values(X)
 shap.summary_plot(shap_values, X, plot_size=(12, 8))
 ```
 
+    
+![asdf](output_24_0.png)
 
-    
-![png](output_24_0.png)
-    
 
 
 The last visualization gives us a lot of insights related to the model and how each feature contribute to the prediction.
@@ -384,3 +383,7 @@ These are the same values but only for the maximum flood feature, as you can see
 I hope you enjoyed this blog post, I prefered to make the things simple. This is only a little introduction and I wanted to show how is working in a multi-disciplinary team.
 
 See you next time!
+
+![El Chaltén, Argentina](/images/el-chalten.jpg)
+
+![El Chaltén, Argentina](/_portfolio/output_16_1.png)
