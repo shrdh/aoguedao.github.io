@@ -287,8 +287,8 @@ plt.title('R2 Score for train and test sets')
 
 
     
-![png]("./output_16_1.png")
-    
+<!-- ![png]("./output_16_1.png") -->
+<img src='output_16_1.png'>
 
 
 
