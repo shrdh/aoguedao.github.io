@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Mathematics, George Mason University, 2025 (expected)
+* M.S. in Mathematics, Universidad Técnica Federico Santa María, 2021
 * Mathematical Engineering, Universidad Técnica Federico Santa María, 2019
-* M.S. in Mathematics, Universidad Técnica Federico Santa María,, 2021
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
@@ -29,8 +29,11 @@ Skills
 ======
 * Applied Mathematics
 * Statistics
+* Machine Learning
 * Programming
   * Python
+  * R
+  * Git
   
 Publications
 ======
@@ -38,11 +41,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
