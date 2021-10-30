@@ -288,7 +288,7 @@ plt.title('R2 Score for train and test sets')
 
 
     
-![png](portfolio_files/portfolio_16_1.png)
+![png](_portfolio/portfolio_files/portfolio_16_1.png)
     
 
 
