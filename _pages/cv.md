@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mathematics, George Mason University, 2025 (expected)
-* M.S. in Mathematics, Universidad Técnica Federico Santa María, 2021
-* Mathematical Engineering, Universidad Técnica Federico Santa María, 2019
+* Ph.D. in Mathematics, George Mason University, 2025 (expected).
+* M.S. in Mathematics, Universidad Técnica Federico Santa María, 2021.
+* Mathematical Engineering, Universidad Técnica Federico Santa María, 2019.
 
 Work experience
 ======
