@@ -376,8 +376,9 @@ shap.dependence_plot(
 
 
     
-![png](portfolio_files/portfolio_26_0.png)
+![png](/portfolio/portfolio_files/portfolio_26_0.png)
     
+![png](/_portfolio/portfolio_files/portfolio_26_0.png)
 
 
 These are the same values but only for the maximum flood feature, as you can see, while bigger is the maximum flood, bigger is the contribution to the prediction, but very small values even could contribuite in a negative way.
