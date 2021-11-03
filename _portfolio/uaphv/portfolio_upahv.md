@@ -255,7 +255,7 @@ plt.show()
 
 
     
-![png](/portfolio/portfolio_upahv/portfolio_upahv_files/portfolio_upahv_15_0.png)
+![png](/portfolio/upahv/portfolio_upahv_files/portfolio_upahv_15_0.png)
     
 
 
@@ -277,7 +277,7 @@ plt.show()
 
 
     
-![png](/portfolio/portfolio_upahv/portfolio_upahv_files/portfolio_upahv_16_0.png)
+![png](/portfolio/upahv/portfolio_upahv_files/portfolio_upahv_16_0.png)
     
 
 
@@ -317,7 +317,7 @@ plt.show()
 
 
     
-![png](/portfolio/portfolio_upahv/portfolio_upahv_files/portfolio_upahv_23_0.png)
+![png](/portfolio/upahv/portfolio_upahv_files/portfolio_upahv_23_0.png)
     
 
 
@@ -350,7 +350,7 @@ fig.show()
 
 
     
-![png](/portfolio/portfolio_upahv/portfolio_upahv_files/portfolio_upahv_25_0.png)
+![png](/portfolio/upahv/portfolio_upahv_files/portfolio_upahv_25_0.png)
     
 
 
