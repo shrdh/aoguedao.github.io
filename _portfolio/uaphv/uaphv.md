@@ -1,9 +1,8 @@
 ---
-title: "Modelling geographical and built environment’s attributes as predictors of human vulnerability during tsunami evacuations: a multi-case study and paths to improvement"
+title: "Modelling geographical and built environment’s attributes as predictors of human vulnerability during tsunami evacuation"
 excerpt: "Tsunami Evacuation, Machine Learning and Model Interpretability"
 collection: portfolio
 ---
-
 
 I've been working with [Dr. Jorge León](https://www.researchgate.net/profile/Jorge-Leon-12) since 2019 on projects related to earthquakes, tsunamis and wildfires since a couple of years, motivated by his Architecture and Urbanism background. However, my job has been to implement mathematical and statistical tools for predictions and analysis.
 
@@ -27,6 +26,7 @@ shap.initjs()
 
 %matplotlib inline
 ```
+
 
 Honestly, I don't want to talk about _Exploratory Data Analysis_ or _Data Processing_ since there are a billion of other blog posts, tutorials and courses talking about it. The raw data for each case study was a raster shapefile representing the evacuation territory, where each entry represent a urban cell (micro-scale analysis) that you could think it as a _portion of a street_ and included urban and geographical data fields, included the tsunami death ratio. These files were readed using geopandas, merged and then I dropped independt variables with a large correlation.
 
@@ -255,7 +255,7 @@ plt.show()
 
 
     
-![png](/portfolio/upahv/portfolio_upahv_files/portfolio_upahv_15_0.png)
+![png](/portfolio/uaphv/uaphv_files/uaphv_15_0.png)
     
 
 
@@ -277,7 +277,7 @@ plt.show()
 
 
     
-![png](/portfolio/upahv/portfolio_upahv_files/portfolio_upahv_16_0.png)
+![png](/portfolio/uaphv/uaphv_files/uaphv_16_0.png)
     
 
 
@@ -317,7 +317,7 @@ plt.show()
 
 
     
-![png](/portfolio/upahv/portfolio_upahv_files/portfolio_upahv_23_0.png)
+![png](/portfolio/uaphv/uaphv_files/uaphv_23_0.png)
     
 
 
@@ -350,7 +350,7 @@ fig.show()
 
 
     
-![png](/portfolio/upahv/portfolio_upahv_files/portfolio_upahv_25_0.png)
+![png](/portfolio/uaphv/uaphv_files/uaphv_25_0.png)
     
 
 
